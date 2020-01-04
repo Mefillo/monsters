@@ -1,0 +1,9 @@
+{
+    // Controls the font family.
+"editor.fontFamily": "Victor Mono",
+
+"editor.fontLigatures": true,
+
+// Controls the font size.
+"editor.fontSize": 13
+}
